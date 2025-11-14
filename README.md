@@ -52,4 +52,6 @@ No momento, estou aprofundando meus conhecimentos nas seguintes áreas:
 
 💬 **Vamos nos conectar?**  
 Sinta-se à vontade para explorar meus repositórios ou me mandar uma mensagem! 🙂
+Aqui está do jeito que você pediu:
 
+**Meu currículo:** [https://www.canva.com/design/DAGfjSY5tm8/t5AsJsScNVeXlk_0JDSlmQ/edit?utm_content=DAGfjSY5tm8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGfjSY5tm8/t5AsJsScNVeXlk_0JDSlmQ/edit?utm_content=DAGfjSY5tm8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
