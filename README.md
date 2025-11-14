@@ -20,8 +20,6 @@
 </div>
 
 ###
-# Olá, eu sou o Lucas Levi! 👋 
-
 Bem-vindo(a) ao meu cantinho no GitHub!  
 Sou um entusiasta de tecnologia em formação, focado em aprender e desenvolver soluções.
 
