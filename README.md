@@ -56,5 +56,5 @@ Aqui está do jeito que você pediu:
 
 **Google sites:** https://sites.google.com/view/meus-trabalhoss/in%C3%ADcio
 
-**Trabalho do CEUB:** 
+**Trabalho do CEUB:** https://github.com/lucaslevift-byte/calculadora/blame/main/calc.py
 
